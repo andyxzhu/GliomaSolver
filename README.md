@@ -1,5 +1,7 @@
 # GliomaSolver
 
+<img width="714" alt="Screenshot 2022-11-06 134838" src="https://user-images.githubusercontent.com/51041969/200189360-b194138b-d5ed-4914-9f82-aa096b48ace6.png">
+
 Paper Link: https://doi.org/10.1137/22S1472814
 
 This is the repository for code used in my paper. If you have any questions, you can reach me at `andyzhu at cmu dot edu`.
@@ -14,3 +16,4 @@ Here, we implement a general method for solving time-dependent diffusion-reactio
 We show that PINNs are capable of solving parameter inference inverse problems in approximately one hour, expediting previous approaches by 20--40 times owing to the robust interpolation capabilities of machine learning algorithms.
 
 ![inverse-proliferation-recovery-eps](https://user-images.githubusercontent.com/51041969/200189101-485830df-67e7-47ce-91e0-e37a505d0b05.png)
+
