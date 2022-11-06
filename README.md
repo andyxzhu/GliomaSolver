@@ -4,3 +4,5 @@ Glioblastoma is an aggressive brain tumor with cells that infiltrate and prolife
 Here, we implement a general method for solving time-dependent diffusion-reaction PDE models of glioblastoma and inferring biophysical parameters from numerical data via PINNs. We evaluate the PINNs over patient-specific geometries, accounting for individual variations with diffusion mobilities derived from pre-operative MRI scans. Using synthetic data, we demonstrate the performance of our algorithm in patient-specific geometries. 
 
 We show that PINNs are capable of solving parameter inference inverse problems in approximately one hour, expediting previous approaches by 20--40 times owing to the robust interpolation capabilities of machine learning algorithms.
+![inverse-diffusion-recovery-eps](https://user-images.githubusercontent.com/51041969/200189095-3a4c2b8f-fafd-49f7-bc18-d4c9de807e76.png)
+![inverse-proliferation-recovery-eps](https://user-images.githubusercontent.com/51041969/200189101-485830df-67e7-47ce-91e0-e37a505d0b05.png)
