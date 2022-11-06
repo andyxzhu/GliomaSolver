@@ -1,7 +1,7 @@
 # GliomaSolver
-<p align="center">
-  <img width="714" alt="Screenshot 2022-11-06 134838" src="https://user-images.githubusercontent.com/51041969/200189360-b194138b-d5ed-4914-9f82-aa096b48ace6.png">
-</p>
+
+![screenshot]src="https://user-images.githubusercontent.com/51041969/200189360-b194138b-d5ed-4914-9f82-aa096b48ace6.png">
+
 Paper Link: https://doi.org/10.1137/22S1472814
 
 This is the repository for code used in my paper. If you have any questions, you can reach me at `andyzhu at cmu dot edu`.
