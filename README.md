@@ -1,6 +1,6 @@
 # GliomaSolver
 
-![screenshot]src="https://user-images.githubusercontent.com/51041969/200189360-b194138b-d5ed-4914-9f82-aa096b48ace6.png">
+![screenshot]("https://user-images.githubusercontent.com/51041969/200189360-b194138b-d5ed-4914-9f82-aa096b48ace6.png")
 
 Paper Link: https://doi.org/10.1137/22S1472814
 
