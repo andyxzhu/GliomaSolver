@@ -2,7 +2,7 @@
 
 Paper Link: https://doi.org/10.1137/22S1472814
 
-This is the repository for code used in my paper. If you have any questions, please find me at `andyzhu at cmu dot edu`.
+This is the repository for code used in my paper. If you have any questions, you can reach me at `andyzhu at cmu dot edu`.
 
 ## Abstract
 Glioblastoma is an aggressive brain tumor with cells that infiltrate and proliferate rapidly into surrounding brain tissue. Recently, physics-informed neural networks (PINNs) have emerged as a novel method in scientific machine learning for solving nonlinear PDEs. Compared to traditional solvers, PINNs leverage unsupervised deep learning methods to minimize residuals across mesh-free domains, enabling greater flexibility while avoiding the need for complex grid constructions. 
